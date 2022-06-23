@@ -8,13 +8,12 @@ hello i am varel from indonesia and i will make the impossible possible and i re
 
 ### Skill 
 
-- Penetration testing
-- Red team 
-- blue team
+- :computer: Penetration testing
+- :unlock: Red team 
+- :lock:blue team
 
 ### Certificate
 ![Varel Valen SIo-EHF-Cert](https://user-images.githubusercontent.com/105418279/175371698-14276a8e-cda8-4050-be73-b8ac0e0f0181.jpg)
-I Complate course in 3 days
 
 
 
