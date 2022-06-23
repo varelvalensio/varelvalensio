@@ -1,16 +1,20 @@
-### Hi there 👋
+![github](https://user-images.githubusercontent.com/105418279/175369622-a37c143e-7616-4469-9bd3-ca93b658d591.png)
 
-<!--
-**varelvalensio/varelvalensio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Varel velensio
+
+hello i am varel from indonesia and i will make the impossible possible and i really like things related to penetration testing like owasp top 10 and stress testing, i am only 15 years old and i really want to have a career in cyber security, devsecops and penetration testing
+
+### Skill 
+
+- Penetration testing
+- Red team 
+- blue team
+
+### Certificate
+![Varel Valen SIo-EHF-Cert](https://user-images.githubusercontent.com/105418279/175371698-14276a8e-cda8-4050-be73-b8ac0e0f0181.jpg)
+I Complate course in 3 days
+
+
+
