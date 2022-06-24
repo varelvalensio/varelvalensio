@@ -9,7 +9,7 @@ hello i am varel from indonesia and i will make the impossible possible and i re
 ### Skill 
 
 - :computer: Penetration testing
-- :unlock: Red team 
+- :desktop_computer: Red team 
 - :lock: blue team
 
 ### Certificate
