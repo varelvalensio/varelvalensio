@@ -26,8 +26,8 @@ hello i am varel from indonesia and i will make the impossible possible and i re
 
 2
 
-[Varel Valen Sio e-Sertifikat.pdf](https://github.com/varelvalensio/varelvalensio/files/9071969/Varel.Valen.Sio.e-Sertifikat.pdf)
+![Varel Valen Sio e-Sertifikat.pdf](https://github.com/varelvalensio/varelvalensio/files/9071969/Varel.Valen.Sio.e-Sertifikat.pdf)
 
 3
 
-[Sertifikat Varel Valen sio Dari Kelas Online Cara Mudah Bikin  Website.pdf](https://github.com/varelvalensio/varelvalensio/files/9071970/Sertifikat.Varel.Valen.sio.Dari.Kelas.Online.Cara.Mudah.Bikin.Website.pdf)
+![Sertifikat Varel Valen sio Dari Kelas Online Cara Mudah Bikin  Website.pdf](https://github.com/varelvalensio/varelvalensio/files/9071970/Sertifikat.Varel.Valen.sio.Dari.Kelas.Online.Cara.Mudah.Bikin.Website.pdf)
