@@ -20,8 +20,14 @@ hello i am varel from indonesia and i will make the impossible possible and i re
 
 ### Certificate Webinar
 
+1
+
 ![Acara Seru E-Certificate - B8C5C6CD-591B-41B7-9C1D-732E582CFAAB (1) (1)](https://user-images.githubusercontent.com/105418279/177988102-0cdd5080-578a-4884-b38b-9bb033753f59.png)
 
+2
+
 [Varel Valen Sio e-Sertifikat.pdf](https://github.com/varelvalensio/varelvalensio/files/9071969/Varel.Valen.Sio.e-Sertifikat.pdf)
+
+3
 
 [Sertifikat Varel Valen sio Dari Kelas Online Cara Mudah Bikin  Website.pdf](https://github.com/varelvalensio/varelvalensio/files/9071970/Sertifikat.Varel.Valen.sio.Dari.Kelas.Online.Cara.Mudah.Bikin.Website.pdf)
